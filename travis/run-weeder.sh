@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 if [ "$WEEDER_ARGUMENTS" = "" ]; then
     WEEDER_ARGUMENTS=.
 fi

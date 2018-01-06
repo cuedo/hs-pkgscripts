@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 mkdir -p ~/.local/bin
 export PATH=$HOME/.local/bin:$PATH
 
