@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/sh
 if [ "$HLINT_ARGUMENTS" = "" ]; then
     HLINT_ARGUMENTS=.
 fi
